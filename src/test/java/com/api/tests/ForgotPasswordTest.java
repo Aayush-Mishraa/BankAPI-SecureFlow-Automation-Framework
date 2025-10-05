@@ -1,4 +1,4 @@
-package api.com.tests;
+package com.api.tests;
 
 import java.net.Authenticator;
 import java.net.ResponseCache;
